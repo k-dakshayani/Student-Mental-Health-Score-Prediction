@@ -2,7 +2,7 @@
   "use strict";
 
   
-  const API_BASE = "http://127.0.0.1:2200";
+  const API_BASE = "https://student-mental-health-score-prediction-1-fwbt.onrender.com";
 
   const form = document.getElementById("predict-form");
   const submitBtn = document.getElementById("submit-btn");
