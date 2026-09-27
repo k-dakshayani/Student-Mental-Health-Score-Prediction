@@ -2,7 +2,7 @@
   "use strict";
 
   
-  const API_BASE = "https://student-mental-health-score-prediction-1-bmk2.onrender.com/";
+  const API_BASE = "https://student-mental-health-score-prediction-kdsi.onrender.com";
 
   const form = document.getElementById("predict-form");
   const submitBtn = document.getElementById("submit-btn");
