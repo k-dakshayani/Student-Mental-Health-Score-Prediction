@@ -1,9 +1,8 @@
 (() => {
   "use strict";
 
-  // TODO: once you deploy the backend to Render, swap this back to
-  // your live URL, e.g. "https://mansik-santulan-score.onrender.com"
-  const API_BASE = "http://127.0.0.1:2200";
+  
+  const API_BASE = "https://student-mental-health-score-prediction-1-bmk2.onrender.com/";
 
   const form = document.getElementById("predict-form");
   const submitBtn = document.getElementById("submit-btn");
